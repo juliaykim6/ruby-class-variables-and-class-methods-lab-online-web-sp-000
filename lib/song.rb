@@ -20,7 +20,7 @@ class Song
   end
 
   def self.artists
-    a@artist.uniq
-  end 
+    @artist.uniq
+  end
 
 end
